@@ -5,9 +5,8 @@ int main()
 {
     printf("Nicolas Ranniery da Silva Sousa - 202206840051\n");
     printf("Leonam Bronze Moraes Mafra - 202206840057\n")
-    git add atividade_1.c
-    git commit -m "segunda contribuição"
-    git push origin HEAD
+    printf("Leonardo da Silva Pinheiro - 202206840040\n");
+    printf("Adonias Augusto Fernades da Costa - 202207040030\n");
  
     return 0;
 }
